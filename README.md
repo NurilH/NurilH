@@ -28,7 +28,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-    <a href="https://www.go.dev/" target="_blank" rel="noreferrer">
+    <a href="https://go.dev/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/go.svg" alt="c" width="40"
             height="40" /> </a>
     <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
