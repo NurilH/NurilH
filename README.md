@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Nuril Huda</h1>
-<h3 align="center">BACHELOR OF INFORMATICS ENGINEERING,
-    <b> BRAWIJAYA UNIVERSITY</b>.
+<h3 align="center">Bachelor of Informatics Engineering,
+    Brawijaya University 🏫.
 </h3>
 
-
+<br>
 
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 
